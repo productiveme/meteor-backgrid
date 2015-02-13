@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'productiveme:backrid',
+  name: 'productiveme:backgrid',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: 'Backgrid.js is a set of components for building semantic and easily stylable data grid widgets.',
